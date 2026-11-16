@@ -1,0 +1,8 @@
+{
+  "name": "injgian-trigger-watch",
+  "owner": { "name": "injgian" },
+  "description": "Claude Code mod that shows skills, subagents and hook events as they fire",
+  "plugins": [
+    { "name": "trigger-watch", "source": "./", "description": "A pane beside the chat that lists each skill, subagent and hook event as it fires" }
+  ]
+}
