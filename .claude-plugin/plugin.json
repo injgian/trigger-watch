@@ -1,6 +1,6 @@
 {
   "name": "trigger-watch",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A pane beside the chat that lists each skill, subagent and hook event as it fires",
   "types": "./types/index.d.ts",
   "author": {
